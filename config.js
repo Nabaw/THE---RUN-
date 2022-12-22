@@ -1,4 +1,4 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
+// S C R I P T  O R I  B Y  @THE - RUN®©シ
 // M A D E  B Y  Letta - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
@@ -51,26 +51,26 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '082329616980'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6288901826898'
+global.nomorown = '6282329616980'
+global.namebot = 'THE - RUNシ'
+global.nameown = 'THE - RUN®©シ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
+  ['6283329616980'],
+  ['6288901826898'],
   ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6285334930628', 'THE - RUN®©シ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
